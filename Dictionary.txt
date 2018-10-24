@@ -1,0 +1,241 @@
+    ACM Computing Reviews
+    ACM Computing Surveys
+    ACM Transactions on Algorithms
+    ACM Transactions on Applied Perception
+    ACM Transactions on Computational Logic
+    ACM Transactions on Database Systems
+    ACM Transactions on Graphics
+    ACM Transactions on Information Systems
+    ACM Transactions on Multimedia Computing, Communications, and Applications
+    ACM Transactions on Programming Languages and Systems
+    ACM Transactions on Software Engineering and Methodology
+    Acta Informatica
+    Adaptive Behavior (journal)
+    AI & Society
+    ALGOL Bulletin
+    Algorithmica
+    Algorithms (journal)
+    Applied Artificial Intelligence
+    Applied Computer Science
+    Archives of Computational Methods in Engineering
+    Artificial Intelligence (journal)
+    Artificial Life (journal)
+    Astronomy and Computing
+    Autonomous Agents and Multi-Agent Systems
+
+
+    Journal of the Brazilian Computer Society
+
+    Cluster Computing (journal)
+    Cognitive Systems Research
+    Combinatorica
+    Combinatorics, Probability and Computing
+    Communications of the ACM
+    Complex Systems (journal)
+    Computational and Mathematical Organization Theory
+    Computational Intelligence (journal)
+    Computational Mechanics (journal)
+    Computer Aided Surgery (journal)
+    The Computer Journal
+    Computer Law & Security Review
+    Computer Networks (journal)
+    Computer Science (journal)
+    Computing (journal)
+    Cybernetics and Human Knowing
+
+
+
+    Data Mining and Knowledge Discovery
+    Data Technologies and Applications
+    Discrete Mathematics & Theoretical Computer Science
+    Distributed Computing (journal)
+
+
+
+    E-Informatica Software Engineering Journal
+    Electronic Letters on Computer Vision and Image Analysis
+    Electronic Notes in Theoretical Computer Science
+    Electronic Proceedings in Theoretical Computer Science
+    Ethics and Information Technology
+    EURASIP Journal on Advances in Signal Processing
+    Evolutionary Computation (journal)
+
+
+
+    First Monday (journal)
+    Formal Aspects of Computing
+    Foundations and Trends in Communications and Information Theory
+    Foundations and Trends in Computer Graphics and Vision
+    Foundations and Trends in Theoretical Computer Science
+    Frontiers of Computer Science
+    Fundamenta Informaticae
+    Future Generation Computing Systems
+    Fuzzy Sets and Systems
+
+
+
+    Higher-Order and Symbolic Computation
+
+
+
+    ICGA Journal
+    IEE Proceedings - Software
+    IEEE/ACM Transactions on Networking
+    IEEE Annals of the History of Computing
+    IEEE Intelligent Systems
+    IEEE Internet Computing
+    IEEE Micro
+    IEEE MultiMedia
+    IEEE Software
+    IEEE Transactions on Computers
+    IEEE Transactions on Control Systems and Technology
+    IEEE Transactions on Evolutionary Computation
+    IEEE Transactions on Fuzzy Systems
+    IEEE Transactions on Information Forensics and Security
+    IEEE Transactions on Information Theory
+    IEEE Transactions on Learning Technologies
+    IEEE Transactions on Mobile Computing
+    IEEE Transactions on Multimedia
+    IEEE Transactions on Neural Networks and Learning Systems
+    IEEE Transactions on Pattern Analysis and Machine Intelligence
+    IEEE Transactions on Software Engineering
+    IEEE Transactions on Visualization and Computer Graphics
+    IET Software
+    The Imaging Science Journal
+    Information and Computation
+    Information and Software Technology
+    Information Processing Letters
+    Information Resources Management Journal
+    Information Services & Use
+    Information Systems (journal)
+    Information Systems Journal
+    Innovations in Systems and Software Engineering
+    International Institute for Advanced Studies in Systems Research and Cybernetics
+    International Journal of Advanced Computer Technology
+    International Journal of Applied Mathematics and Computer Science
+    International Journal of Computational Geometry and Applications
+    International Journal of Computational Intelligence and Applications
+    International Journal of Computational Methods
+    International Journal of Computer Assisted Radiology and Surgery
+    International Journal of Computer Processing of Languages
+    International Journal of Computer Vision
+    International Journal of Cooperative Information Systems
+    International Journal of Creative Computing
+    International Journal of Data Warehousing and Mining
+    International Journal of Foundations of Computer Science
+    International Journal of High Performance Computing Applications
+    International Journal of Image and Graphics
+    International Journal of Information Acquisition
+    International Journal of Information Technology
+    International Journal of Information Technology & Decision Making
+    International Journal of Innovation and Technology Management
+    International Journal of Intelligent Information Technologies
+    International Journal of Modelling and Simulation
+    International Journal of Multimedia Information Retrieval
+    International Journal of Pattern Recognition and Artificial Intelligence
+    International Journal of Shape Modeling
+    International Journal of Software and Informatics
+    International Journal of Software Engineering and Knowledge Engineering
+    International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems
+    International Journal of Wavelets, Multiresolution and Information Processing
+    International Journal of Web Services Research
+    International Journal of Wireless Information Networks
+    International Journal on Artificial Intelligence Tools
+    International Journal on Semantic Web and Information Systems
+
+
+
+    Journal of Advances in Information Fusion
+    Journal of Artificial Intelligence Research
+    Journal of Automata, Languages and Combinatorics
+    Journal of Automated Reasoning
+    Journal of Cases on Information Technology
+    Journal of Chemical Information and Modeling
+    Journal of Cheminformatics
+    Journal of Circuits, Systems, and Computers
+    Journal of Communications and Networks
+    Journal of Computational Geometry
+    Journal of Computer and System Sciences
+    Journal of Computer-Mediated Communication
+    Journal of Computing Sciences in Colleges
+    Journal of Cryptology
+    Journal of Database Management
+    Journal of Experimental and Theoretical Artificial Intelligence
+    Journal of Formalized Reasoning
+    Journal of Functional Programming
+    Journal of Global Information Management
+    Journal of Graph Algorithms and Applications
+    Journal of Graphics Tools
+    Journal of Grid Computing
+    Journal of Information Technology & Politics
+    Journal of Interconnection Networks
+    Journal of Logic and Computation
+    Journal of Logical and Algebraic Methods in Programming
+    Journal of Machine Learning Research
+    Journal of Multimedia
+    The Journal of Object Technology
+    Journal of Open Source Software
+    Journal of Software: Evolution and Process
+    Journal of Statistical Software
+    Journal of Strategic Information Systems
+    The Journal of Supercomputing
+    Journal of Symbolic Computation
+    Journal of Systems and Software
+    Journal of the ACM
+    Journal of Web Semantics
+
+
+
+    Knowledge-Based Systems (journal)
+    Kybernetes
+
+
+
+    Ledger (journal)
+    Logical Methods in Computer Science
+
+
+
+    Machine Learning (journal)
+    Machine Vision and Applications
+    Mathematics and Computer Education
+    Minds and Machines
+    Mobile Computing and Communications Review
+    Molecular Informatics
+
+
+
+    Natural Computing (journal)
+    Natural Language Engineering
+    Neural Networks (journal)
+    Neurocomputing (journal)
+
+
+
+    Parallel Processing Letters
+    Pattern Recognition (journal)
+    Pattern Recognition Letters
+    Performance Evaluation
+    Personal and Ubiquitous Computing
+    Presence: Teleoperators & Virtual Environments
+    Probability in the Engineering and Informational Sciences
+    Proceedings of the IEEE
+
+
+
+    ReCALL (journal)
+
+
+
+    Science Software Quarterly
+    Scientific Computing & Instrumentation
+    Semantic Web � Interoperability, Usability, Applicability
+    Semantic Web (journal)
+    SIAM Journal on Computing
+    SIAM Journal on Scientific Computing
+    Simulation & Gaming
+    Software & Microsystems
+    Software and Systems Modeling
+    Software Engineering Journal
+    Software Testing, Verification & Reliability
+    Statistics and Computing
