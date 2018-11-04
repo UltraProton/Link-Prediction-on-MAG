@@ -20,7 +20,7 @@ with open("AuthorsYear.csv", "w") as output_file:
 
     for index, row in df.iterrows():
         venue = row['venue']
-        if pandas.isnull(venue):
+        if pandas.isnull(venue) or pandas.isnull(row['authors']):
             continue
 
         venue = venue.lower()
