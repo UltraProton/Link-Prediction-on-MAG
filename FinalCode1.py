@@ -138,8 +138,8 @@ print(metrics.auc(fpr,tpr))
 
 no_of_edges=0
 
-for year , authors in year_author_dict:
+for year , authors in year_author_dict.items():
     no_of_edges+=len(year_author_dict[year])
 
-
+print("No of edges in Graph:",no_of_edges)
 
